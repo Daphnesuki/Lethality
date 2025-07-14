@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    "Y# ",
+    "DY "
+  ],
+  "key": {
+    "#": {
+      "item": "lethality:annihilation_alloy"
+    },
+    "D": {
+      "item": "terramity:reverium_sword"
+    },
+    "Y": {
+      "item": "terramity:decayed_bedrock_dust"
+    }
+  },
+  "result": {
+    "item": "lethality:sacrifice",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " XG",
+    "YWX",
+    "CY "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:nether_star"
+    },
+    "Y": {
+      "item": "lethality:pixie_alloy"
+    },
+    "W": {
+      "item": "terramity:nyxium"
+    },
+    "C": {
+      "item": "terramity:nyxium_greatsword"
+    },
+    "X": {
+      "item": "terramity:prismatic_crystal_block"
+    }
+  },
+  "result": {
+    "item": "lethality:starlight",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "attributes": {
+    "attack_range": 6.0,
+    "category": "trident",
+    "two_handed": false,
+    "attacks": [
+      {
+        "hitbox": "FORWARD_BOX",
+        "damage_multiplier": 1,
+        "angle": 0,
+        "upswing": 0.5,
+        "animation": "lethality:violence_throw",
+        "swing_sound": {
+          "id": "bettercombat:double_axe_swing"
+        }
+      },
+      {
+        "hitbox": "FORWARD_BOX",
+        "damage_multiplier": 1,
+        "angle": 0,
+        "upswing": 0.5,
+        "animation": "lethality:violence_throw_horizontal",
+        "swing_sound": {
+          "id": "bettercombat:double_axe_swing"
+        }
+      },
+      {
+        "hitbox": "FORWARD_BOX",
+        "damage_multiplier": 1,
+        "angle": 0,
+        "upswing": 0.5,
+        "animation": "lethality:violence_throw_horizontal_2",
+        "swing_sound": {
+          "id": "bettercombat:double_axe_swing"
+        }
+      }
+    ]
+  }
+}

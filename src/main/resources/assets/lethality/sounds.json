@@ -1,0 +1,74 @@
+{
+	"megalo_strike_back": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "lethality:megalo_strike_back",
+				"stream": true
+			}
+		]
+	},
+	"real_knife_slash": {
+		"category": "players",
+		"sounds": [
+			{
+				"name": "lethality:real_knife_slash",
+				"stream": true
+			}
+		]
+	},
+	"mate_drink": {
+		"category": "players",
+		"sounds": [
+			{
+				"name": "lethality:mate_drink",
+				"stream": true
+			}
+		]
+	},
+	"nightfall_slam": {
+		"category": "players",
+		"sounds": [
+			{
+				"name": "lethality:nightfall_slam",
+				"stream": true
+			}
+		]
+	},
+	"nightfall_hit": {
+		"category": "players",
+		"sounds": [
+			{
+				"name": "lethality:nightfall_hit",
+				"stream": true
+			}
+		]
+	},
+	"nightfall_shield_use": {
+		"category": "players",
+		"sounds": [
+			{
+				"name": "lethality:nightfall_shield_use",
+				"stream": true
+			}
+		]
+	},
+	"nightfall_shield_recast": {
+		"category": "players",
+		"sounds": [
+			{
+				"name": "lethality:nightfall_shield_recast",
+				"stream": true
+			}
+		]
+	},
+	"bloodshed_start": {
+		"category": "players",
+		"sounds": [
+			{
+				"name": "lethality:bloodshed_start",
+				"stream": true
+			}
+		]
+	}
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " RP",
+    "YWR",
+    "CY "
+  ],
+  "key": {
+    "R": {
+      "item": "terramity:warden_soul"
+    },
+    "P": {
+      "item": "lethality:annihilation_alloy"
+    },
+    "Y": {
+      "item": "terramity:spiteful_soul"
+    },
+    "W": {
+      "item": "lethality:annihilation_alloy"
+    },
+    "C": {
+      "item": "terramity:unholy_lance"
+    }
+  },
+  "result": {
+    "item": "lethality:violence",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terramity:occult_fabric"
+    },
+    {
+      "item": "terramity:fairy_dust"
+    },
+    {
+      "item": "terramity:fairy_dust"
+    }
+  ],
+  "result": {
+    "item": "lethality:soft_cloth",
+    "count": 1
+  }
+}

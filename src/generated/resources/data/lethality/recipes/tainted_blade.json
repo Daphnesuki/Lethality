@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#RP",
+    "YWR",
+    "CYZ"
+  ],
+  "key": {
+    "#": {
+      "item": "terramity:spiteful_soul"
+    },
+    "Z": {
+      "item": "terramity:accursed_soul"
+    },
+    "R": {
+      "item": "terramity:ruby"
+    },
+    "P": {
+      "item": "terramity:ruby"
+    },
+    "Y": {
+      "item": "minecraft:blaze_powder"
+    },
+    "W": {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    "C": {
+      "item": "terramity:ruby_sword"
+    }
+  },
+  "result": {
+    "item": "lethality:tainted_blade",
+    "count": 1
+  }
+}

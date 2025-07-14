@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "terramity:occult_fabric"
+    },
+    "b": {
+      "item": "terramity:chthonic_crystal"
+    }
+  },
+  "result": {
+    "item": "terramity:conjuror_boots",
+    "count": 1
+  }
+}

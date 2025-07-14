@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " YR",
+    "YWY",
+    "CY "
+  ],
+  "key": {
+    "#": {
+      "item": "terramity:iridescent_shard_block"
+    },
+    "Y": {
+      "item": "lethality:pixie_alloy"
+    },
+    "W": {
+      "item": "terramity:conductite"
+    },
+    "C": {
+      "item": "terramity:simmeredge"
+    },
+    "R": {
+      "item": "terramity:reverium"
+    }
+  },
+  "result": {
+    "item": "lethality:hf_meowrasama",
+    "count": 1
+  }
+}

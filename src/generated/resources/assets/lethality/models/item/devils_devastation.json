@@ -1,0 +1,61 @@
+{
+  "loader": "forge:separate_transforms",
+  "gui_light": "front",
+  "base": {
+    "parent": "lethality:handheld/64_handheld",
+    "display": {
+      "thirdperson_righthand": {
+        "rotation": [
+          0,
+          -90,
+          55
+        ],
+        "translation": [
+          0,
+          20,
+          -1
+        ],
+        "scale": [
+          2.9,
+          2.9,
+          1
+        ]
+      },
+      "thirdperson_lefthand": {
+        "rotation": [
+          0,
+          90,
+          -55
+        ],
+        "translation": [
+          0,
+          20,
+          -1
+        ],
+        "scale": [
+          2.9,
+          2.9,
+          1
+        ]
+      }
+    },
+    "textures": {
+      "layer0": "lethality:item/devils_devastation"
+    }
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/generated",
+      "textures": {
+        "layer0": "lethality:item/devils_devastation_gui"
+      },
+      "gui_light": "front"
+    },
+    "ground": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "lethality:item/devils_devastation_gui"
+      }
+    }
+  }
+}

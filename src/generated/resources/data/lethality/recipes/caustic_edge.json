@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#RP",
+    "YWR",
+    "CY#"
+  ],
+  "key": {
+    "#": {
+      "item": "terramity:virentium_alloy_ingot"
+    },
+    "R": {
+      "item": "terramity:ruby_block"
+    },
+    "P": {
+      "item": "terramity:iridium_chunk"
+    },
+    "Y": {
+      "item": "terramity:topaz"
+    },
+    "W": {
+      "item": "terramity:spiteful_soul"
+    },
+    "C": {
+      "item": "lethality:tainted_blade"
+    }
+  },
+  "result": {
+    "item": "lethality:caustic_edge",
+    "count": 1
+  }
+}

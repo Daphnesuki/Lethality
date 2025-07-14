@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terramity:exodium_superalloy"
+    },
+    {
+      "item": "terramity:exodium_superalloy"
+    },
+    {
+      "item": "terramity:nyxium"
+    },
+    {
+      "item": "terramity:nyxium"
+    },
+    {
+      "item": "terramity:black_hole_bomb"
+    }
+  ],
+  "result": {
+    "item": "lethality:annihilation_alloy",
+    "count": 2
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##F",
+    "#SF",
+    "DY "
+  ],
+  "key": {
+    "#": {
+      "item": "terramity:spiteful_soul"
+    },
+    "S": {
+      "item": "lethality:pixie_alloy"
+    },
+    "F": {
+      "item": "terramity:decayed_bedrock_dust"
+    },
+    "D": {
+      "item": "terramity:hellspec_sword"
+    },
+    "Y": {
+      "item": "terramity:chthonic_crystal"
+    }
+  },
+  "result": {
+    "item": "lethality:real_knife",
+    "count": 1
+  }
+}

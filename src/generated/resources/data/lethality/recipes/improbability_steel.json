@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "terramity:chthonic_crystal"
+    },
+    {
+      "item": "terramity:chthonic_crystal"
+    },
+    {
+      "item": "terramity:chthonic_crystal"
+    },
+    {
+      "item": "terramity:chthonic_crystal"
+    }
+  ],
+  "result": {
+    "item": "lethality:improbability_steel",
+    "count": 1
+  }
+}

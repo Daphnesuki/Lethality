@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#RP",
+    "YWR",
+    "Cy#"
+  ],
+  "key": {
+    "#": {
+      "item": "lethality:pixie_alloy"
+    },
+    "R": {
+      "item": "terramity:reverium"
+    },
+    "P": {
+      "item": "terramity:chthonian_void"
+    },
+    "Y": {
+      "item": "terramity:nyxium_greatsword"
+    },
+    "y": {
+      "item": "terramity:exodium_sword"
+    },
+    "W": {
+      "item": "minecraft:bedrock"
+    },
+    "C": {
+      "item": "terramity:sword_of_the_imprisoned"
+    }
+  },
+  "result": {
+    "item": "lethality:nightmare_sword",
+    "count": 1
+  }
+}

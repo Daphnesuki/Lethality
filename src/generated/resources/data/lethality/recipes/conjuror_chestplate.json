@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "terramity:occult_fabric"
+    }
+  },
+  "result": {
+    "item": "terramity:conjuror_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AGH",
+    "BFG",
+    "CDE"
+  ],
+  "key": {
+    "A": {
+      "item": "terramity:lucky_dice"
+    },
+    "B": {
+      "item": "terramity:nullifying_dice"
+    },
+    "C": {
+      "item": "lethality:midas_touch"
+    },
+    "D": {
+      "item": "terramity:weighted_die"
+    },
+    "E": {
+      "item": "terramity:devils_dice"
+    },
+    "F": {
+      "item": "terramity:fateful_coin"
+    },
+    "G": {
+      "item": "lethality:pixie_alloy"
+    },
+    "H": {
+      "item": "terramity:die_of_revival"
+    }
+  },
+  "result": {
+    "item": "lethality:gamblers_blade",
+    "count": 1
+  }
+}

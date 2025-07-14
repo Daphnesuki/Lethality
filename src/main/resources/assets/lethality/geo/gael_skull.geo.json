@@ -1,0 +1,50 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "skull",
+					"pivot": [3, 10, -3],
+					"cubes": [
+						{"origin": [-4, 10, -4], "size": [8, 8, 8], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "flames",
+					"pivot": [0, 14, 8],
+					"cubes": [
+						{"origin": [-4, 10, 3.15], "size": [8, 8, 8], "inflate": -0.75, "uv": [0, 16]}
+					]
+				},
+				{
+					"name": "longflames",
+					"pivot": [0, 14, 8],
+					"cubes": [
+						{
+							"origin": [-4, 10, 3.15],
+							"size": [8, 8, 18],
+							"inflate": -1.3,
+							"uv": {
+								"north": {"uv": [8, 24], "uv_size": [8, 8]},
+								"east": {"uv": [0, 24], "uv_size": [8, 8]},
+								"south": {"uv": [24, 24], "uv_size": [8, 8]},
+								"west": {"uv": [16, 24], "uv_size": [8, 8]},
+								"up": {"uv": [8, 16], "uv_size": [8, 8]},
+								"down": {"uv": [16, 24], "uv_size": [8, -8]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

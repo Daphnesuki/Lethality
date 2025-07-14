@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#RP",
+    "YWR",
+    "CY#"
+  ],
+  "key": {
+    "#": {
+      "item": "terramity:iridium_chunk"
+    },
+    "R": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "P": {
+      "item": "terramity:daemonium_block"
+    },
+    "Y": {
+      "item": "terramity:lost_soul"
+    },
+    "W": {
+      "item": "terramity:prismatic_jewel"
+    },
+    "C": {
+      "item": "lethality:bladecrest_oathsword"
+    }
+  },
+  "result": {
+    "item": "lethality:forbidden_oathblade",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sunflower"
+    },
+    {
+      "item": "terramity:spiteful_soul"
+    },
+    {
+      "item": "terramity:accursed_soul"
+    },
+    {
+      "item": "terramity:lost_soul"
+    }
+  ],
+  "result": {
+    "item": "lethality:flowey",
+    "count": 1
+  }
+}

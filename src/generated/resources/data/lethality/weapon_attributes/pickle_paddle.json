@@ -1,0 +1,19 @@
+{
+  "attributes": {
+    "attack_range": 2.0,
+    "category": "dagger",
+    "two_handed": false,
+    "attacks": [
+      {
+        "hitbox": "FORWARD_BOX",
+        "damage_multiplier": 1,
+        "angle": 0,
+        "upswing": 0.5,
+        "animation": "lethality:pickle_pong",
+        "swing_sound": {
+          "id": "bettercombat:rapier_stab"
+        }
+      }
+    ]
+  }
+}

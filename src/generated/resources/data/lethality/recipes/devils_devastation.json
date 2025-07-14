@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#RP",
+    "YWR",
+    "CY#"
+  ],
+  "key": {
+    "#": {
+      "item": "terramity:spectral_soul"
+    },
+    "R": {
+      "item": "terramity:iridium"
+    },
+    "P": {
+      "item": "terramity:nyxium"
+    },
+    "Y": {
+      "item": "terramity:antiprism"
+    },
+    "W": {
+      "item": "terramity:warden_soul"
+    },
+    "C": {
+      "item": "lethality:exalted_oathblade"
+    }
+  },
+  "result": {
+    "item": "lethality:devils_devastation",
+    "count": 1
+  }
+}

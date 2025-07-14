@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "184",
+    "5W7",
+    "263"
+  ],
+  "key": {
+    "1": {
+      "item": "terramity:topaz_sword"
+    },
+    "2": {
+      "item": "terramity:ruby_sword"
+    },
+    "3": {
+      "item": "terramity:sapphire_sword"
+    },
+    "4": {
+      "item": "terramity:onyx_sword"
+    },
+    "5": {
+      "item": "terramity:sapphire"
+    },
+    "6": {
+      "item": "terramity:ruby"
+    },
+    "7": {
+      "item": "terramity:topaz"
+    },
+    "8": {
+      "item": "terramity:onyx"
+    },
+    "A": {
+      "item": "minecraft:barrier"
+    }
+  },
+  "result": {
+    "item": "lethality:broken_biome_blade",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "message_id": "meowrasama_slash",
+  "scaling": "never",
+  "bypasses_armor": true,
+  "bypass_invul": true,
+  "magic": true,
+  "exhaustion": 0.0
+}

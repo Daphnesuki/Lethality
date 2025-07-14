@@ -1,0 +1,113 @@
+{
+  "loader": "forge:separate_transforms",
+  "gui_light": "front",
+  "base": {
+    "parent": "lethality:handheld/48_handheld",
+    "display": {
+      "thirdperson_righthand": {
+        "rotation": [
+          0,
+          -90,
+          55
+        ],
+        "translation": [
+          0,
+          15,
+          -0.5
+        ],
+        "scale": [
+          2.3,
+          2.3,
+          1
+        ]
+      },
+      "thirdperson_lefthand": {
+        "rotation": [
+          0,
+          90,
+          -55
+        ],
+        "translation": [
+          0,
+          5,
+          -0.5
+        ],
+        "scale": [
+          2.3,
+          2.3,
+          1
+        ]
+      },
+      "firstperson_righthand": {
+        "rotation": [
+          -15,
+          -90,
+          25
+        ],
+        "translation": [
+          1.13,
+          7.2,
+          1.13
+        ],
+        "scale": [
+          1.7,
+          1.7,
+          0.85
+        ]
+      },
+      "firstperson_lefthand": {
+        "rotation": [
+          -15,
+          90,
+          -25
+        ],
+        "translation": [
+          1.13,
+          7.2,
+          1.13
+        ],
+        "scale": [
+          1.7,
+          1.7,
+          0.85
+        ]
+      },
+      "ground": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          4,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          0.5
+        ]
+      }
+    },
+    "textures": {
+      "layer0": "lethality:item/forbidden_oathblade"
+    }
+  },
+
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/generated",
+      "textures": {
+        "layer0": "lethality:item/forbidden_oathblade_gui"
+      },
+      "gui_light": "front"
+    },
+    "ground": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "lethality:item/forbidden_oathblade_gui"
+      }
+    }
+  }
+}

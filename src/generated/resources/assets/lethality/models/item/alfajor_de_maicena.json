@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lethality:item/alfajor_de_maicena"
+  }
+}

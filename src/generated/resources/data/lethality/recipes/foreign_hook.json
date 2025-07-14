@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CAC",
+    "A A",
+    " B "
+  ],
+  "key": {
+    "A": {
+      "item": "lethality:improbability_steel"
+    },
+    "B": {
+      "item": "minecraft:chain"
+    },
+    "C": {
+      "item": "terramity:daemonium_chunk"
+    }
+  },
+  "result": {
+    "item": "lethality:foreign_hook",
+    "count": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+	"loader": "forge:separate_transforms",
+	"gui_light": "front",
+
+	"base": {
+		"parent": "lethality:handheld/80_handheld",
+		"textures": {
+			"layer0": "lethality:item/hf_meowrasama_active"
+		},
+		"display": {
+			"thirdperson_righthand": {
+				"rotation": [0, 90, 35],
+				"translation": [-0.5, 18.5, 11],
+				"scale": [3.5, 3.5, 1]
+			},
+			"thirdperson_lefthand": {
+				"rotation": [0, -90, -35],
+				"translation": [0.25, 18.5, 11],
+				"scale": [3.5, 3.5, 1]
+			},
+			"firstperson_righthand": {
+				"rotation": [0, 90, 35],
+				"translation": [9.75, 13, 0],
+				"scale": [3.5, 3.5, 1]
+			},
+			"firstperson_lefthand": {
+				"rotation": [0, -90, -35],
+				"translation": [9.75, 13, 0.5],
+				"scale": [3.5, 3.5, 1]
+			}
+		}
+	},
+
+	"perspectives": {
+		"gui": {
+			"parent": "minecraft:item/generated",
+			"textures": {
+				"layer0": "lethality:item/hf_meowrasama_active_gui"
+			},
+			"gui_light": "front"
+		},
+		"ground": {
+			"parent": "item/generated",
+			"textures": {
+				"layer0": "lethality:item/hf_meowrasama_active_gui"
+			}
+		}
+	}
+}

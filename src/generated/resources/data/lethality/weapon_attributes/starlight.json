@@ -1,0 +1,19 @@
+{
+  "attributes": {
+    "attack_range": 3,
+    "category": "rapier",
+    "two_handed": false,
+    "attacks": [
+      {
+        "hitbox": "FORWARD_BOX",
+        "damage_multiplier": 1,
+        "angle": 0,
+        "upswing": 1.0,
+        "animation": "bettercombat:one_handed_stab",
+        "swing_sound": {
+          "id": "bettercombat:rapier_stab"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#RP",
+    "YWR",
+    "CY#"
+  ],
+  "key": {
+    "#": {
+      "item": "terramity:dimlite_ingot"
+    },
+    "R": {
+      "item": "terramity:void_alloy"
+    },
+    "P": {
+      "item": "terramity:warden_soul"
+    },
+    "Y": {
+      "item": "terramity:decayed_bedrock_dust"
+    },
+    "W": {
+      "item": "terramity:cracked_microcosm"
+    },
+    "C": {
+      "item": "terramity:hellrok_gigaton_hammer"
+    }
+  },
+  "result": {
+    "item": "lethality:nightfall",
+    "count": 1
+  }
+}

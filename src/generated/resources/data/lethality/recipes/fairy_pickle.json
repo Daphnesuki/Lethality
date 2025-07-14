@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sea_pickle"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "item": "terramity:fairy_dust"
+    }
+  ],
+  "result": {
+    "item": "lethality:fairy_pickle",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " PP",
+    "YWR",
+    "CY "
+  ],
+  "key": {
+    "R": {
+      "item": "terramity:warden_soul"
+    },
+    "P": {
+      "item": "lethality:annihilation_alloy"
+    },
+    "Y": {
+      "item": "terramity:spiteful_soul"
+    },
+    "W": {
+      "item": "terramity:spectral_soul"
+    },
+    "C": {
+      "item": "terramity:nyxium_shovel"
+    }
+  },
+  "result": {
+    "item": "lethality:vehemence",
+    "count": 1
+  }
+}

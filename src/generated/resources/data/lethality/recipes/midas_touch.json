@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " DD",
+    "BCD",
+    "AB "
+  ],
+  "key": {
+    "A": {
+      "item": "terramity:duskrok_greatsword"
+    },
+    "B": {
+      "item": "terramity:topaz_block"
+    },
+    "C": {
+      "item": "terramity:fateful_coin"
+    },
+    "D": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "lethality:midas_touch",
+    "count": 1
+  }
+}

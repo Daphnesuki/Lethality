@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAD",
+    "BBE",
+    "CCF"
+  ],
+  "key": {
+    "A": {
+      "item": "terramity:fairy_dust"
+    },
+    "B": {
+      "item": "terramity:spectral_soul"
+    },
+    "C": {
+      "item": "terramity:prismatic_jewel"
+    },
+    "D": {
+      "item": "terramity:angel_feather"
+    },
+    "E": {
+      "item": "terramity:cracked_microcosm"
+    },
+    "F": {
+      "item": "terramity:opaline_moonstone"
+    }
+  },
+  "result": {
+    "item": "lethality:pixie_alloy",
+    "count": 1
+  }
+}

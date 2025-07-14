@@ -1,0 +1,26 @@
+{
+  "loader": "forge:separate_transforms",
+  "gui_light": "front",
+  "base": {
+    "parent": "lethality:handheld/32_handheld",
+    "textures": {
+      "layer0": "lethality:item/tainted_blade"
+    }
+  },
+
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/generated",
+      "textures": {
+        "layer0": "lethality:item/tainted_blade_gui"
+      },
+      "gui_light": "front"
+    },
+    "ground": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "lethality:item/tainted_blade_gui"
+      }
+    }
+  }
+}

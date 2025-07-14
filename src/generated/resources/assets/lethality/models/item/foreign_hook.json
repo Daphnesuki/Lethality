@@ -1,0 +1,96 @@
+{
+  "loader": "forge:separate_transforms",
+  "gui_light": "front",
+  "base": {
+    "parent": "lethality:handheld/32_handheld",
+    "textures": {
+      "layer0": "lethality:item/foreign_hook"
+    },
+    "display": {
+      "thirdperson_righthand": {
+        "rotation": [
+          0,
+          90,
+          22
+        ],
+        "translation": [
+          0,
+          7,
+          -3
+        ],
+        "scale": [
+          1.7,
+          1.7,
+          1
+        ]
+      },
+      "thirdperson_lefthand": {
+        "rotation": [
+          0,
+          -90,
+          -22
+        ],
+        "translation": [
+          0,
+          7,
+          -3
+        ],
+        "scale": [
+          1.7,
+          1.7,
+          1
+        ]
+      },
+      "firstperson_righthand": {
+        "rotation": [
+          0,
+          90,
+          20
+        ],
+        "translation": [
+          1.13,
+          5.2,
+          2.13
+        ],
+        "scale": [
+          1.36,
+          1.36,
+          0.85
+        ]
+      },
+      "firstperson_lefthand": {
+        "rotation": [
+          0,
+          -90,
+          -20
+        ],
+        "translation": [
+          1.13,
+          5.2,
+          2.13
+        ],
+        "scale": [
+          1.36,
+          1.36,
+          0.85
+        ]
+      }
+    }
+  },
+
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/generated",
+      "textures": {
+        "layer0": "lethality:item/foreign_hook_gui"
+      },
+      "gui_light": "front"
+    },
+    "ground": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "lethality:item/foreign_hook_gui"
+      }
+    }
+  }
+}

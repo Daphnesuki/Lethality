@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#RP",
+    "YWR",
+    "CY#"
+  ],
+  "key": {
+    "#": {
+      "item": "terramity:black_matter"
+    },
+    "R": {
+      "item": "terramity:void_alloy"
+    },
+    "P": {
+      "item": "terramity:cosmilite_ingot"
+    },
+    "Y": {
+      "item": "terramity:decayed_bedrock_dust"
+    },
+    "W": {
+      "item": "terramity:prismatic_jewel"
+    },
+    "C": {
+      "item": "lethality:forbidden_oathblade"
+    }
+  },
+  "result": {
+    "item": "lethality:exalted_oathblade",
+    "count": 1
+  }
+}

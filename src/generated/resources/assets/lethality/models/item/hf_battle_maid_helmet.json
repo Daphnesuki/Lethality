@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lethality:item/hf_battle_maid_helmet"
+  }
+}

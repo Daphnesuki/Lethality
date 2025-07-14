@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " AA",
+    "BAA",
+    "CB "
+  ],
+  "key": {
+    "A": {
+      "item": "lethality:improbability_steel"
+    },
+    "B": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "terramity:dimlite_shovel"
+    }
+  },
+  "result": {
+    "item": "lethality:stop_sign",
+    "count": 1
+  }
+}

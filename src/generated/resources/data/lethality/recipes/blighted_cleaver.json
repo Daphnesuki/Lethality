@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#RP",
+    "YWR",
+    "CY#"
+  ],
+  "key": {
+    "#": {
+      "item": "terramity:decayed_bedrock_dust"
+    },
+    "R": {
+      "item": "terramity:chthonic_crystal_block"
+    },
+    "P": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "Y": {
+      "item": "terramity:spectral_soul"
+    },
+    "W": {
+      "item": "terramity:simmeredge"
+    },
+    "C": {
+      "item": "lethality:caustic_edge"
+    }
+  },
+  "result": {
+    "item": "lethality:blighted_cleaver",
+    "count": 1
+  }
+}

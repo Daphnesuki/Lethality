@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " RP",
+    "RWR",
+    "CR "
+  ],
+  "key": {
+    "R": {
+      "item": "terramity:warden_soul"
+    },
+    "P": {
+      "item": "terramity:spiteful_soul"
+    },
+    "W": {
+      "item": "minecraft:bedrock"
+    },
+    "C": {
+      "item": "terramity:sword_of_the_imprisoned"
+    }
+  },
+  "result": {
+    "item": "lethality:gaels_greatsword",
+    "count": 1
+  }
+}

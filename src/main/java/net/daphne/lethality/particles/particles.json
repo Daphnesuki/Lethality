@@ -1,0 +1,35 @@
+{
+    "lethality:custom_particle": {
+        "type": "minecraft:simple"
+    },
+    "lethality:acidic_bubble": {
+        "type": "minecraft:simple"
+    },
+    "lethality:acidic_bubble_fork": {
+        "type": "minecraft:simple"
+    },
+    "lethality:acidic_impact": {
+        "type": "minecraft:simple"
+    },
+    "lethality:real_crit": {
+        "type": "minecraft:simple"
+    },
+    "lethality:forbidden_glint": {
+        "type": "minecraft:simple"
+    },
+    "lethality:hex_flame": {
+        "type": "minecraft:simple"
+    },
+    "lethality:gael_smoke": {
+        "type": "minecraft:simple"
+    },
+    "lethality:tranquility": {
+        "type": "minecraft:simple"
+    },
+    "lethality:crumbling": {
+        "type": "minecraft:simple"
+    },
+    "lethality:cute_sparkles": {
+        "type": "minecraft:simple"
+    }
+}

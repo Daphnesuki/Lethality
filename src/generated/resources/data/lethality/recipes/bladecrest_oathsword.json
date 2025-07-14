@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "1R4",
+    "YWR",
+    "2Y3"
+  ],
+  "key": {
+    "1": {
+      "item": "terramity:ruby"
+    },
+    "2": {
+      "item": "terramity:ruby_sword"
+    },
+    "3": {
+      "item": "terramity:ruby"
+    },
+    "4": {
+      "item": "terramity:pot_of_hot_coals"
+    },
+    "Y": {
+      "item": "minecraft:fire_charge"
+    },
+    "W": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "R": {
+      "item": "terramity:spiteful_soul"
+    }
+  },
+  "result": {
+    "item": "lethality:bladecrest_oathsword",
+    "count": 1
+  }
+}

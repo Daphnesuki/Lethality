@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#RP",
+    "YWR",
+    "CY#"
+  ],
+  "key": {
+    "#": {
+      "item": "terramity:hellspec_alloy"
+    },
+    "R": {
+      "item": "terramity:warden_soul"
+    },
+    "P": {
+      "item": "terramity:cracked_microcosm"
+    },
+    "Y": {
+      "item": "terramity:exodium_superalloy"
+    },
+    "W": {
+      "item": "terramity:guiding_moonlight"
+    },
+    "C": {
+      "item": "lethality:blighted_cleaver"
+    }
+  },
+  "result": {
+    "item": "lethality:defiled_greatsword",
+    "count": 1
+  }
+}

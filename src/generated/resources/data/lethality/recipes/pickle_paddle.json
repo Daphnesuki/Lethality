@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PiI",
+    "ISi",
+    "YIP"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:quartz"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "S": {
+      "item": "lethality:fairy_pickle"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    },
+    "P": {
+      "item": "terramity:fairy_dust"
+    }
+  },
+  "result": {
+    "item": "lethality:pickle_paddle",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "lethality:soft_cloth"
+    }
+  },
+  "result": {
+    "item": "lethality:battle_maid_boots",
+    "count": 1
+  }
+}
